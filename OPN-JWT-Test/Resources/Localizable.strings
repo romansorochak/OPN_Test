@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  OPN-JWT-Test
+
+  Created by Roman Sorochak on 04.08.2020.
+  Copyright © 2020 StarGo. All rights reserved.
+*/
+
+
+//MARK: - misc
+
+"first_name" = "First name";
+"last_name" = "Last name";
+"age" = "Age";
+"gender" = "Gender";
+"country" = "Country";
+
+
+//MARK: - Users view
+
+"users_nav_title" = "Users";
